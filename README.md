@@ -20,7 +20,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=codernikita&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=codernikita&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[![Nikita's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=codernikita&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Nikita's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=codernikita&bg_color=000000&color=fffff0&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h1>🤝 Let's Connect <br></h1>
 
