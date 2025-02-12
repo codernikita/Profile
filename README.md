@@ -1,5 +1,13 @@
+# Hey There👋, I'm Nikita
+<br />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&height=100&lines=Hey!+This+is+Nikita;I+am+Computer+Science+Undergraduate)](https://git.io/typing-svg)
+
+<br>
+
+
 # 💫 About Me:
-🎓 Computer Science Student passionate about coding and problem-solving.<br>Fueling creativity with technology, always eager to build and innovate.<br>💡 Ideas to Reality: If it can be imagined, it can be coded! <br>Let’s build something legendary.
+🎓 Computer Science Student passionate about coding and problem-solving.<br> 🔥 Fueling creativity with technology, always eager to build and innovate.<br>💡 Ideas to Reality: If it can be imagined, it can be coded! <br>🚀 Let’s build something legendary.
 
 
 ## 🌐 Socials:
@@ -12,8 +20,16 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=codernikita&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=codernikita&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+[![Nikita's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=codernikita&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<h1>🤝 Let's Connect <br></h1>
+
+<h4>
+I'm always eager to meet like-minded tech enthusiasts, students, and professionals. Whether it's brainstorming innovative ideas, solving complex problems, or building something exciting together, I'm all in!
+<br /><br />
+Let’s  share knowledge, and grow together—because learning is always better with a community!
+
+Thanks for stopping by! Happy coding! 😊🚀
 
 ---
 [![](https://visitcount.itsvg.in/api?id=codernikita&icon=9&color=13)](https://visitcount.itsvg.in)
