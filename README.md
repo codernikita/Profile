@@ -8,6 +8,7 @@
 
 # 💫 About Me:
 🎓 Computer Science Student passionate about coding and problem-solving.<br> 🔥 Fueling creativity with technology, always eager to build and innovate.<br>💡 Ideas to Reality: If it can be imagined, it can be coded! <br>🚀 Let’s build something legendary.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=codernikita&label=Profile%20views&color=0e75b6&style=flat" alt="codernikita" /> </p>
 
 
 ## 🌐 Socials:
